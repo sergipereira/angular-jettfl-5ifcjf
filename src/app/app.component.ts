@@ -5,7 +5,6 @@ import { Component } from '@angular/core';
   template: `
     <div style="background: #ECECEC;padding:30px;">
      <nz-card style="width:500px;" [nzBordered]="false" nzTitle="Card title" [nzExtra]="extraTemplate">
-     <img id="logo-main" src="../images/logotipo.png" width="" height="">alt="Logo Thing main logo">
         <p>Card content</p>
         <p>Card content</p>
         <p>Card content</p>
